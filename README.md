@@ -8,10 +8,8 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![DSPy](https://img.shields.io/badge/-DSPy-FF6B6B?style=flat-square)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
-![Robotics](https://img.shields.io/badge/-Robotics-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 > Messing around with AI and shipping things that actually work.
 
