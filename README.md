@@ -13,7 +13,7 @@
 
 > Messing around with AI and shipping things that actually work.
 
-🍭 **[appliedtensors.com](https://appliedtensors.com)** | 🏥 **[backworkai.com](https://backworkai.com)**
+🎬 **[Applied Tensors](https://www.youtube.com/@appliedtensors)** | 🏥 **[backworkai.com](https://backworkai.com)**
 
 ## Current Projects
 
