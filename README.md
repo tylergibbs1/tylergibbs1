@@ -6,7 +6,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![DSPy](https://img.shields.io/badge/-DSPy-FF6B6B?style=flat-square)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
@@ -17,6 +16,7 @@
 
 ## Current Projects
 
+- 🩺 **[MedFlow](https://soapbw.vercel.app/)** - Generate professional SOAP notes in seconds with AI
 - 📊 **[ClaimGraph](https://github.com/Tylerbryy/claimgraph)** - Turn any research question into an interactive knowledge graph with stance classification
 - 🏥 **[Verity](https://www.backworkai.com/)** - Medicare coverage answers in seconds, not hours of PDF hunting
 - 📐 **[Lyapunov Attention](https://github.com/Tylerbryy/lyapunov-attention)** - First Lyapunov exponent framework for transformer attention dynamics
@@ -24,8 +24,6 @@
 - 💬 **[NTTP](https://github.com/tylerbryy/nttp)** - Query databases in plain English with 3-layer caching
 - 🤖 **[LLM Robotic Dog](https://youtu.be/Xs0VmfZI658)** - Tell it to backflip in natural language, Claude figures out the rest
 - 👁️ **[IRIS](https://github.com/Tylerbryy/iris)** - Force vision LLMs to verify with SAM 3 segmentation masks
-- 🛡️ **DSPy Security Pipeline** - 8-stage LLM defense with immutable state and sub-2s latency
-- 🧠 **Cross-Domain Solution Matcher** - Find solutions from completely different fields using DSPy
 - ♟️ **[Chess AI](https://chess.appliedtensors.com/)** - Alpha Beta vs Monte Carlo, no neural nets, just algorithms fighting
 - 🚗 **[Traffic Simulation](https://github.com/Tylerbryy/traffic-simulation)** - Can AVs eliminate traffic lights? Neural MPC says maybe
 - 🦞 **[Archie](https://github.com/Tylerbryy/archie)** - Universal MCP server platform with automatic sandboxing
