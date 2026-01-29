@@ -16,7 +16,7 @@
 
 ## Current Projects
 
-- 🍞 **[Breadcrumb](https://github.com/tylergibbs1/breadcrumb)** - File-attached context layer for AI agents, coordinate work and preserve warnings across sessions
+- 🍞 **[Breadcrumb](https://github.com/tylergibbs1/breadcrumb)** - Leave notes on files for AI agents. Prevent future agents from "simplifying" intentional code.
 - 🩺 **[MedFlow](https://soapbw.vercel.app/)** - Generate professional SOAP notes in seconds with AI
 - 📊 **[ClaimGraph](https://github.com/Tylerbryy/claimgraph)** - Turn any research question into an interactive knowledge graph with stance classification
 - 🏥 **[Verity](https://www.backworkai.com/)** - Medicare coverage answers in seconds, not hours of PDF hunting
