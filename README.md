@@ -16,6 +16,7 @@
 
 ## Current Projects
 
+- 🫁 **[CT-Search](https://github.com/tylergibbs1/ct-search)** – Semantic search over chest CT archives with natural language using COLIPRI
 - 🍞 **[Breadcrumb](https://github.com/tylergibbs1/breadcrumb)** - Agents leave notes for other agents about files. Preserves context that would otherwise be lost between sessions.
 - 🩺 **[MedFlow](https://soapbw.vercel.app/)** - Generate professional SOAP notes in seconds with AI
 - 📊 **[ClaimGraph](https://github.com/Tylerbryy/claimgraph)** - Turn any research question into an interactive knowledge graph with stance classification
