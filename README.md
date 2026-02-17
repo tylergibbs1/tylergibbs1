@@ -15,7 +15,7 @@
 🎬 **[Applied Tensors](https://www.youtube.com/@appliedtensors)** | 🏥 **[backworkai.com](https://backworkai.com)**
 
 ## Current Projects
-
+- 💊 **[FirstClaim](https://github.com/tylergibbs1/firstclaim)** - AI agent that extracts, validates, and scores medical billing claims from clinical notes in real time
 - 🫁 **[CT-Search](https://github.com/tylergibbs1/ct-search)** – Semantic search over chest CT archives with natural language using COLIPRI
 - 🍞 **[Breadcrumb](https://github.com/tylergibbs1/breadcrumb)** - Agents leave notes for other agents about files. Preserves context that would otherwise be lost between sessions.
 - 🎞️ **[slidegen](https://github.com/tylergibbs1/slidegen)** - Agent-first CLI for generating PowerPoint decks. Prompt to slides via Gemini image generation.
