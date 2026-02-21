@@ -15,36 +15,36 @@
 🎬 **[Applied Tensors](https://www.youtube.com/@appliedtensors)** | 🏥 **[backworkai.com](https://backworkai.com)**
 
 ## Current Projects
-- ☁️ **[Stratus](https://github.com/tylergibbs1/stratus)** - TypeScript agent SDK for Azure OpenAI. Agents, tools, handoffs, streaming, guardrails, and tracing in a clean composable API.
-- 📚 **[context7cli](https://github.com/tylergibbs1/context7cli)** - CLI for AI agents to fetch up-to-date library docs from Context7. Install via npm, Homebrew, or curl.
-- 💊 **[FirstClaim](https://github.com/tylergibbs1/firstclaim)** - AI agent that extracts, validates, and scores medical billing claims from clinical notes in real time
-- 🛡️ **[ClaimGuard](https://github.com/backworkai/claimguard)** - Autonomous medical billing denial prediction agent that analyzes claims against CMS/NCCI rules locally, HIPAA-safe by design
-- 🫁 **[CT-Search](https://github.com/tylergibbs1/ct-search)** – Semantic search over chest CT archives with natural language using COLIPRI
-- 🍞 **[Breadcrumb](https://github.com/tylergibbs1/breadcrumb)** - Agents leave notes for other agents about files. Preserves context that would otherwise be lost between sessions.
-- 🎞️ **[slidegen](https://github.com/tylergibbs1/slidegen)** - Agent-first CLI for generating PowerPoint decks. Prompt to slides via Gemini image generation.
-- 📉 **[Tradecraft](https://github.com/tylergibbs1/tradecraft)** - Autonomous trading TUI with strategy evolution, backtesting, and a Claude-powered agent swarm
+- ☁️ **[Stratus](https://github.com/tylergibbs1/stratus)** - TypeScript agent SDK for Azure OpenAI with tools, handoffs, and streaming
+- 📚 **[context7cli](https://github.com/tylergibbs1/context7cli)** - CLI for AI agents to fetch up-to-date library docs from Context7
+- 💊 **[FirstClaim](https://github.com/tylergibbs1/firstclaim)** - AI agent that extracts and scores medical billing claims from clinical notes
+- 🛡️ **[ClaimGuard](https://github.com/backworkai/claimguard)** - Autonomous medical billing denial prediction, HIPAA-safe by design
+- 🫁 **[CT-Search](https://github.com/tylergibbs1/ct-search)** – Semantic search over chest CT archives with natural language
+- 🍞 **[Breadcrumb](https://github.com/tylergibbs1/breadcrumb)** - Agents leave notes for other agents about files across sessions
+- 🎞️ **[slidegen](https://github.com/tylergibbs1/slidegen)** - Agent-first CLI for generating PowerPoint decks from prompts
+- 📉 **[Tradecraft](https://github.com/tylergibbs1/tradecraft)** - Autonomous trading TUI with strategy evolution and backtesting
 - 🩺 **[MedFlow](https://soapbw.vercel.app/)** - Generate professional SOAP notes in seconds with AI
-- 📊 **[ClaimGraph](https://github.com/Tylerbryy/claimgraph)** - Turn any research question into an interactive knowledge graph with stance classification
+- 📊 **[ClaimGraph](https://github.com/Tylerbryy/claimgraph)** - Turn research questions into interactive knowledge graphs
 - 🏥 **[Verity](https://www.backworkai.com/)** - Medicare coverage answers in seconds, not hours of PDF hunting
-- 🗃️ **[extractr](https://github.com/Tylerbryy/extractr)** - Template-based data extraction from web pages using YAML configs
+- 🗃️ **[extractr](https://github.com/Tylerbryy/extractr)** - Template-based data extraction from web pages with YAML configs
 - 🔎 **[domql](https://github.com/Tylerbryy/domql)** - SQL syntax for DOM querying, query web pages like databases
 - 🧬 **[schemasniff](https://github.com/Tylerbryy/schemasniff)** - Auto-infer scraping schemas from pages with repeated content
-- 📐 **[Lyapunov Attention](https://github.com/Tylerbryy/lyapunov-attention)** - First Lyapunov exponent framework for transformer attention dynamics
+- 📐 **[Lyapunov Attention](https://github.com/Tylerbryy/lyapunov-attention)** - Lyapunov exponent framework for transformer attention dynamics
 - 📡 **[Stream Schema](https://github.com/Tylerbryy/stream-schema)** - Parse LLM JSON token by token with incremental validation
 - 💬 **[NTTP](https://github.com/tylerbryy/nttp)** - Query databases in plain English with 3-layer caching
-- 🤖 **[LLM Robotic Dog](https://youtu.be/Xs0VmfZI658)** - Tell it to backflip in natural language, Claude figures out the rest
+- 🤖 **[LLM Robotic Dog](https://youtu.be/Xs0VmfZI658)** - Natural language control for robotic dogs via Claude
 - 👁️ **[IRIS](https://github.com/Tylerbryy/iris)** - Force vision LLMs to verify with SAM 3 segmentation masks
-- ♟️ **[Chess AI](https://chess.appliedtensors.com/)** - Alpha Beta vs Monte Carlo, no neural nets, just algorithms fighting
+- ♟️ **[Chess AI](https://chess.appliedtensors.com/)** - Alpha Beta vs Monte Carlo, no neural nets, just algorithms
 - 🚗 **[Traffic Simulation](https://github.com/Tylerbryy/traffic-simulation)** - Can AVs eliminate traffic lights? Neural MPC says maybe
 - 🦞 **[Archie](https://github.com/Tylerbryy/archie)** - Universal MCP server platform with automatic sandboxing
-- 📈 **[Lattice](https://github.com/Tylerbryy/lattice)** - 10 parallel agents analyze stocks through Munger's 28 mental models
+- 📈 **[Lattice](https://github.com/Tylerbryy/lattice)** - 10 parallel agents analyze stocks via Munger's mental models
 - 🔍 **[AI Scope](https://github.com/Tylerbryy/ai-scope)** - Describe your problem, find the right AI tool
 - 😈 **[AI Replacer](https://github.com/Tylerbryy/ai-replacer)** - Find out how replaceable you are (it's a joke... mostly)
 
 ### Legacy Work
 
 - 🤖 **[Altron](https://www.altronchat.com/)** - AI agent with custom tools, works with any LLM
-- 🧬 **NAKG** - Neural Adaptive Knowledge Graphs for medical docs (perfect F1 on KG queries)
+- 🧬 **NAKG** - Neural Adaptive Knowledge Graphs for medical docs
 - ✅ **[FactScope](https://www.factscopeai.com)** - Grammarly but for facts, open source
 - 🏥 **[Backwork](https://backworkai.com)** - Medical billing code extraction, production SaaS
 - 👻 **[Shadow](https://github.com/Tylerbryy/shadow)** - Desktop assistant with wake word and code execution
