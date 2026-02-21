@@ -15,6 +15,7 @@
 🎬 **[Applied Tensors](https://www.youtube.com/@appliedtensors)** | 🏥 **[backworkai.com](https://backworkai.com)**
 
 ## Current Projects
+- ☁️ **[Stratus](https://github.com/tylergibbs1/stratus)** - TypeScript agent SDK for Azure OpenAI. Agents, tools, handoffs, streaming, guardrails, and tracing in a clean composable API.
 - 📚 **[context7cli](https://github.com/tylergibbs1/context7cli)** - CLI for AI agents to fetch up-to-date library docs from Context7. Install via npm, Homebrew, or curl.
 - 💊 **[FirstClaim](https://github.com/tylergibbs1/firstclaim)** - AI agent that extracts, validates, and scores medical billing claims from clinical notes in real time
 - 🛡️ **[ClaimGuard](https://github.com/backworkai/claimguard)** - Autonomous medical billing denial prediction agent that analyzes claims against CMS/NCCI rules locally, HIPAA-safe by design
