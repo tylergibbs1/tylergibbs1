@@ -19,6 +19,7 @@
 - 📚 **[context7cli](https://github.com/tylergibbs1/context7cli)** - CLI for AI agents to fetch up-to-date library docs from Context7
 - 💊 **[FirstClaim](https://github.com/tylergibbs1/firstclaim)** - AI agent that extracts and scores medical billing claims from clinical notes
 - 🦉 **[Noctua](https://github.com/tylergibbs1/noctua)** - AI-powered scraper and data acquisition agent with 24 tools, Playwright browser, and crawl4ai
+- 🛡️ **[ClaimGuard](https://github.com/backworkai/claimguard)** - Autonomous medical billing denial prediction, HIPAA-safe by design
 - 🫁 **[CT-Search](https://github.com/tylergibbs1/ct-search)** – Semantic search over chest CT archives with natural language
 - 🍞 **[Breadcrumb](https://github.com/tylergibbs1/breadcrumb)** - Agents leave notes for other agents about files across sessions
 - 🎞️ **[slidegen](https://github.com/tylergibbs1/slidegen)** - Agent-first CLI for generating PowerPoint decks from prompts
