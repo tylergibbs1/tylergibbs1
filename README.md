@@ -15,6 +15,7 @@
 🎬 **[Applied Tensors](https://www.youtube.com/@appliedtensors)** | 🏥 **[backworkai.com](https://backworkai.com)**
 
 ## Current Projects
+- ⚡ **[Faraday](https://faradaycrew.com)** - All-in-one platform for electrical contractors — estimating, invoicing, scheduling, GC portal, and AI assistant
 - 💸 **[cashflow](https://github.com/tylergibbs1/cashflow)** - Agent-first personal finance CLI with Plaid sync, budgets, FTS5 search, and MCP server
 - ☁️ **[Stratus](https://github.com/tylergibbs1/stratus)** - TypeScript agent SDK for Azure OpenAI with tools, handoffs, and streaming
 - 📚 **[context7cli](https://github.com/tylergibbs1/context7cli)** - CLI for AI agents to fetch up-to-date library docs from Context7
