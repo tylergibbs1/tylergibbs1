@@ -10,7 +10,7 @@
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Messing around with AI and shipping things that actually work.
+> Messing around with AI and shipping things that help people.
 
 🎬 **[Applied Tensors](https://www.youtube.com/@appliedtensors)** | 🏥 **[backworkai.com](https://backworkai.com)**
 
@@ -26,6 +26,7 @@
 - 🍞 **[Breadcrumb](https://github.com/tylergibbs1/breadcrumb)** - Agents leave notes for other agents about files across sessions
 - 🎞️ **[slidegen](https://github.com/tylergibbs1/slidegen)** - Agent-first CLI for generating PowerPoint decks from prompts
 - 📉 **[Tradecraft](https://github.com/tylergibbs1/tradecraft)** - Autonomous trading TUI with strategy evolution and backtesting
+- 🏥 **[Backwork](https://backworkai.com)** - AI tools for healthcare administration.
 - 🩺 **[MedFlow](https://soapbw.vercel.app/)** - Generate professional SOAP notes in seconds with AI
 - 📊 **[ClaimGraph](https://github.com/Tylerbryy/claimgraph)** - Turn research questions into interactive knowledge graphs
 - 🏥 **[Verity](https://www.backworkai.com/)** - Medicare coverage answers in seconds, not hours of PDF hunting
@@ -47,9 +48,7 @@
 ### Legacy Work
 
 - 🤖 **[Altron](https://www.altronchat.com/)** - AI agent with custom tools, works with any LLM
-- 🧬 **NAKG** - Neural Adaptive Knowledge Graphs for medical docs
 - ✅ **[FactScope](https://www.factscopeai.com)** - Grammarly but for facts, open source
-- 🏥 **[Backwork](https://backworkai.com)** - Medical billing code extraction, production SaaS
 - 👻 **[Shadow](https://github.com/Tylerbryy/shadow)** - Desktop assistant with wake word and code execution
 - 📧 **[Zinbo](https://github.com/Tylerbryy/zinbo)** - LLM-powered Gmail cleanup
 - 🤖 **[Jarvis](https://github.com/Tylerbryy/Project-Jarvis)** - The OG desktop assistant with long-term memory
