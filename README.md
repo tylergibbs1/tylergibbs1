@@ -24,6 +24,7 @@
 - 🛡️ **[ClaimGuard](https://github.com/backworkai/claimguard)** - Autonomous medical billing denial prediction, HIPAA-safe by design
 - 🫁 **[CT-Search](https://github.com/tylergibbs1/ct-search)** – Semantic search over chest CT archives with natural language
 - 🍞 **[Breadcrumb](https://github.com/tylergibbs1/breadcrumb)** - Agents leave notes for other agents about files across sessions
+- 🧭 **[Helm](https://github.com/tylergibbs1/helm)** - Semantic browser automation MCP server — click by label, not selector
 - 🎞️ **[slidegen](https://github.com/tylergibbs1/slidegen)** - Agent-first CLI for generating PowerPoint decks from prompts
 - 📉 **[Tradecraft](https://github.com/tylergibbs1/tradecraft)** - Autonomous trading TUI with strategy evolution and backtesting
 - 🏥 **[Backwork](https://backworkai.com)** - AI tools for healthcare administration.
