@@ -1,6 +1,6 @@
 # Hi, I'm Tyler 👋
 
-📍 **Applied Tensors** | 🧠 **Building with AI** | 🔬 **From idea to terminal**
+📍 **Applied Tensors** | 🧠 **Building with AI**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -28,24 +28,18 @@
 - 🧭 **[Helm](https://github.com/tylergibbs1/helm)** - Semantic browser automation MCP server — click by label, not selector
 - 🎞️ **[slidegen](https://github.com/tylergibbs1/slidegen)** - Agent-first CLI for generating PowerPoint decks from prompts
 - 📉 **[Tradecraft](https://github.com/tylergibbs1/tradecraft)** - Autonomous trading TUI with strategy evolution and backtesting
-- 🏥 **[Backwork](https://backworkai.com)** - AI tools for healthcare administration.
 - 🩺 **[MedFlow](https://soapbw.vercel.app/)** - Generate professional SOAP notes in seconds with AI
 - 📊 **[ClaimGraph](https://github.com/Tylerbryy/claimgraph)** - Turn research questions into interactive knowledge graphs
-- 🏥 **[Verity](https://www.backworkai.com/)** - Medicare coverage answers in seconds, not hours of PDF hunting
 - 🗃️ **[extractr](https://github.com/Tylerbryy/extractr)** - Template-based data extraction from web pages with YAML configs
 - 🔎 **[domql](https://github.com/Tylerbryy/domql)** - SQL syntax for DOM querying, query web pages like databases
 - 🧬 **[schemasniff](https://github.com/Tylerbryy/schemasniff)** - Auto-infer scraping schemas from pages with repeated content
 - 📐 **[Lyapunov Attention](https://github.com/Tylerbryy/lyapunov-attention)** - Lyapunov exponent framework for transformer attention dynamics
 - 📡 **[Stream Schema](https://github.com/Tylerbryy/stream-schema)** - Parse LLM JSON token by token with incremental validation
-- 💬 **[NTTP](https://github.com/tylerbryy/nttp)** - Query databases in plain English with 3-layer caching
 - 🤖 **[LLM Robotic Dog](https://youtu.be/Xs0VmfZI658)** - Natural language control for robotic dogs via Claude
 - 👁️ **[IRIS](https://github.com/Tylerbryy/iris)** - Force vision LLMs to verify with SAM 3 segmentation masks
 - ♟️ **[Chess AI](https://chess.appliedtensors.com/)** - Alpha Beta vs Monte Carlo, no neural nets, just algorithms
 - 🚗 **[Traffic Simulation](https://github.com/Tylerbryy/traffic-simulation)** - Can AVs eliminate traffic lights? Neural MPC says maybe
-- 🦞 **[Archie](https://github.com/Tylerbryy/archie)** - Universal MCP server platform with automatic sandboxing
 - 📈 **[Lattice](https://github.com/Tylerbryy/lattice)** - 10 parallel agents analyze stocks via Munger's mental models
-- 🔍 **[AI Scope](https://github.com/Tylerbryy/ai-scope)** - Describe your problem, find the right AI tool
-- 😈 **[AI Replacer](https://github.com/Tylerbryy/ai-replacer)** - Find out how replaceable you are (it's a joke... mostly)
 
 ### Legacy Work
 
