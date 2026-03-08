@@ -15,10 +15,10 @@
 🎬 **[Applied Tensors](https://www.youtube.com/@appliedtensors)** | 🏥 **[backworkai.com](https://backworkai.com)**
 
 ## Current Projects
-- 🏕️ **[Campfire](https://github.com/tylergibbs1/campfire)** - Terraform for ads — declarative YAML configs for ad campaigns
-- 🔌 **[TQP](https://github.com/tylergibbs1/TQP)** - Typed Query Protocol — field selection, typed resources, and lazy resolvers for AI agent-tool communication
-- ✈️ **[CodePlane](https://github.com/tylergibbs1/codeplane)** - Transactional code coordination for AI agents — file versioning, leases, and atomic changesets on top of git
-- ⚡ **[Faraday](https://faradaycrew.com)** - All-in-one platform for electrical contractors — estimating, invoicing, scheduling, GC portal, and AI assistant
+- 🏕️ **[Campfire](https://github.com/tylergibbs1/campfire)** - Terraform for ads, declarative YAML configs for ad campaigns
+- 🔌 **[TQP](https://github.com/tylergibbs1/TQP)** - Typed Query Protocol, field selection, typed resources, and lazy resolvers for AI agent-tool communication
+- ✈️ **[CodePlane](https://github.com/tylergibbs1/codeplane)** - Transactional code coordination for AI agents, file versioning, leases, and atomic changesets on top of git
+- ⚡ **[Faraday](https://faradaycrew.com)** - All-in-one platform for electrical contractors, estimating, invoicing, scheduling, GC portal, and AI assistant
 - 💸 **[cashflow](https://github.com/tylergibbs1/cashflow)** - Agent-first personal finance CLI with Plaid sync, budgets, FTS5 search, and MCP server
 - ☁️ **[Stratus](https://github.com/tylergibbs1/stratus)** - TypeScript agent SDK for Azure OpenAI with tools, handoffs, and streaming
 - 📚 **[context7cli](https://github.com/tylergibbs1/context7cli)** - CLI for AI agents to fetch up-to-date library docs from Context7
@@ -27,7 +27,7 @@
 - 🛡️ **[ClaimGuard](https://github.com/backworkai/claimguard)** - Autonomous medical billing denial prediction, HIPAA-safe by design
 - 🫁 **[CT-Search](https://github.com/tylergibbs1/ct-search)** – Semantic search over chest CT archives with natural language
 - 🍞 **[Breadcrumb](https://github.com/tylergibbs1/breadcrumb)** - Agents leave notes for other agents about files across sessions
-- 🧭 **[Helm](https://github.com/tylergibbs1/helm)** - Semantic browser automation MCP server — click by label, not selector
+- 🧭 **[Helm](https://github.com/tylergibbs1/helm)** - Semantic browser automation MCP server, click by label, not selector
 - 🎞️ **[slidegen](https://github.com/tylergibbs1/slidegen)** - Agent-first CLI for generating PowerPoint decks from prompts
 - 📉 **[Tradecraft](https://github.com/tylergibbs1/tradecraft)** - Autonomous trading TUI with strategy evolution and backtesting
 - 🩺 **[MedFlow](https://soapbw.vercel.app/)** - Generate professional SOAP notes in seconds with AI
