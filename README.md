@@ -15,7 +15,7 @@
 🎬 **[Applied Tensors](https://www.youtube.com/@appliedtensors)** | 🏥 **[backworkai.com](https://backworkai.com)**
 
 ## Current Projects
-- 🏕️ **[Campfire](https://github.com/tylergibbs1/campfire)** - Terraform for ads — manage ad campaigns as declarative YAML config, then plan/apply changes via platform APIs
+- 🏕️ **[Campfire](https://github.com/tylergibbs1/campfire)** - Terraform for ads — declarative YAML configs for ad campaigns
 - 🔌 **[TQP](https://github.com/tylergibbs1/TQP)** - Typed Query Protocol — field selection, typed resources, and lazy resolvers for AI agent-tool communication
 - ✈️ **[CodePlane](https://github.com/tylergibbs1/codeplane)** - Transactional code coordination for AI agents — file versioning, leases, and atomic changesets on top of git
 - ⚡ **[Faraday](https://faradaycrew.com)** - All-in-one platform for electrical contractors — estimating, invoicing, scheduling, GC portal, and AI assistant
