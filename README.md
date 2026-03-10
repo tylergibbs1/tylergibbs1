@@ -15,6 +15,7 @@
 🎬 **[Applied Tensors](https://www.youtube.com/@appliedtensors)** | 🏥 **[backworkai.com](https://backworkai.com)**
 
 ## Current Projects
+- 🧜 **[Siren](https://www.usesiren.dev)** - JSON-native diagram system for React, 23 diagram types with validation, theming, and LLM compatibility
 - 🏕️ **[Campfire](https://github.com/tylergibbs1/campfire)** - Terraform for ads, declarative YAML configs for ad campaigns
 - 🔌 **[TQP](https://github.com/tylergibbs1/TQP)** - Typed Query Protocol, field selection, typed resources, and lazy resolvers for AI agent-tool communication
 - ✈️ **[CodePlane](https://github.com/tylergibbs1/codeplane)** - Transactional code coordination for AI agents, file versioning, leases, and atomic changesets on top of git
@@ -35,7 +36,6 @@
 - 🗃️ **[extractr](https://github.com/Tylerbryy/extractr)** - Template-based data extraction from web pages with YAML configs
 - 🔎 **[domql](https://github.com/Tylerbryy/domql)** - SQL syntax for DOM querying, query web pages like databases
 - 🧬 **[schemasniff](https://github.com/Tylerbryy/schemasniff)** - Auto-infer scraping schemas from pages with repeated content
-- 📐 **[Lyapunov Attention](https://github.com/Tylerbryy/lyapunov-attention)** - Lyapunov exponent framework for transformer attention dynamics
 - 📡 **[Stream Schema](https://github.com/Tylerbryy/stream-schema)** - Parse LLM JSON token by token with incremental validation
 - 🤖 **[LLM Robotic Dog](https://youtu.be/Xs0VmfZI658)** - Natural language control for robotic dogs via Claude
 - 👁️ **[IRIS](https://github.com/Tylerbryy/iris)** - Force vision LLMs to verify with SAM 3 segmentation masks
@@ -47,7 +47,6 @@
 
 - 🤖 **[Altron](https://www.altronchat.com/)** - AI agent with custom tools, works with any LLM
 - ✅ **[FactScope](https://www.factscopeai.com)** - Grammarly but for facts, open source
-- 👻 **[Shadow](https://github.com/Tylerbryy/shadow)** - Desktop assistant with wake word and code execution
 - 📧 **[Zinbo](https://github.com/Tylerbryy/zinbo)** - LLM-powered Gmail cleanup
 - 🤖 **[Jarvis](https://github.com/Tylerbryy/Project-Jarvis)** - The OG desktop assistant with long-term memory
 
