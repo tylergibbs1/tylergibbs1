@@ -15,7 +15,7 @@
 🎬 **[Applied Tensors](https://www.youtube.com/@appliedtensors)** | 🏥 **[backworkai.com](https://backworkai.com)**
 
 ## Current Projects
-- 🧜 **[Siren](https://www.usesiren.dev)** - JSON-native diagram system for React, 23 diagram types with validation, theming, and LLM compatibility
+- 🧜 **[Siren](https://www.usesiren.dev/docs)** - JSON-native diagram system for React, 23 diagram types with validation, theming, and LLM compatibility
 - 🏕️ **[Campfire](https://github.com/tylergibbs1/campfire)** - Terraform for ads, declarative YAML configs for ad campaigns
 - 🔌 **[TQP](https://github.com/tylergibbs1/TQP)** - Typed Query Protocol, field selection, typed resources, and lazy resolvers for AI agent-tool communication
 - ✈️ **[CodePlane](https://github.com/tylergibbs1/codeplane)** - Transactional code coordination for AI agents, file versioning, leases, and atomic changesets on top of git
