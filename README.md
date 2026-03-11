@@ -32,25 +32,25 @@
 - 🎞️ **[slidegen](https://github.com/tylergibbs1/slidegen)** - Agent-first CLI for generating PowerPoint decks from prompts
 - 📉 **[Tradecraft](https://github.com/tylergibbs1/tradecraft)** - Autonomous trading TUI with strategy evolution and backtesting
 - 🩺 **[MedFlow](https://soapbw.vercel.app/)** - Generate professional SOAP notes in seconds with AI
-- 📊 **[ClaimGraph](https://github.com/Tylerbryy/claimgraph)** - Turn research questions into interactive knowledge graphs
-- 🗃️ **[extractr](https://github.com/Tylerbryy/extractr)** - Template-based data extraction from web pages with YAML configs
-- 🔎 **[domql](https://github.com/Tylerbryy/domql)** - SQL syntax for DOM querying, query web pages like databases
-- 🧬 **[schemasniff](https://github.com/Tylerbryy/schemasniff)** - Auto-infer scraping schemas from pages with repeated content
-- 📡 **[Stream Schema](https://github.com/Tylerbryy/stream-schema)** - Parse LLM JSON token by token with incremental validation
+- 📊 **[ClaimGraph](https://github.com/tylergibbs1/claimgraph)** - Turn research questions into interactive knowledge graphs
+- 🗃️ **[extractr](https://github.com/tylergibbs1/extractr)** - Template-based data extraction from web pages with YAML configs
+- 🔎 **[domql](https://github.com/tylergibbs1/domql)** - SQL syntax for DOM querying, query web pages like databases
+- 🧬 **[schemasniff](https://github.com/tylergibbs1/schemasniff)** - Auto-infer scraping schemas from pages with repeated content
+- 📡 **[Stream Schema](https://github.com/tylergibbs1/stream-schema)** - Parse LLM JSON token by token with incremental validation
 - 🤖 **[LLM Robotic Dog](https://youtu.be/Xs0VmfZI658)** - Natural language control for robotic dogs via Claude
-- 👁️ **[IRIS](https://github.com/Tylerbryy/iris)** - Force vision LLMs to verify with SAM 3 segmentation masks
+- 👁️ **[IRIS](https://github.com/tylergibbs1/iris)** - Force vision LLMs to verify with SAM 3 segmentation masks
 - ♟️ **[Chess AI](https://chess.appliedtensors.com/)** - Alpha Beta vs Monte Carlo, no neural nets, just algorithms
-- 🚗 **[Traffic Simulation](https://github.com/Tylerbryy/traffic-simulation)** - Can AVs eliminate traffic lights? Neural MPC says maybe
-- 📈 **[Lattice](https://github.com/Tylerbryy/lattice)** - 10 parallel agents analyze stocks via Munger's mental models
+- 🚗 **[Traffic Simulation](https://github.com/tylergibbs1/traffic-simulation)** - Can AVs eliminate traffic lights? Neural MPC says maybe
+- 📈 **[Lattice](https://github.com/tylergibbs1/lattice)** - 10 parallel agents analyze stocks via Munger's mental models
 
 ### Legacy Work
 
 - 🤖 **[Altron](https://www.altronchat.com/)** - AI agent with custom tools, works with any LLM
 - ✅ **[FactScope](https://www.factscopeai.com)** - Grammarly but for facts, open source
-- 📧 **[Zinbo](https://github.com/Tylerbryy/zinbo)** - LLM-powered Gmail cleanup
-- 🤖 **[Jarvis](https://github.com/Tylerbryy/Project-Jarvis)** - The OG desktop assistant with long-term memory
+- 📧 **[Zinbo](https://github.com/tylergibbs1/zinbo)** - LLM-powered Gmail cleanup
+- 🤖 **[Jarvis](https://github.com/tylergibbs1/Project-Jarvis)** - The OG desktop assistant with long-term memory
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@tylerbryy-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tylerbryy)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tylerbryy)
+[![Twitter](https://img.shields.io/badge/-@tylergibbs1-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tylergibbs1)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tylergibbs1)
