@@ -19,6 +19,7 @@
 - 🏕️ **[Campfire](https://github.com/tylergibbs1/campfire)** - Terraform for ads, declarative YAML configs for ad campaigns
 - 🔌 **[TQP](https://github.com/tylergibbs1/TQP)** - Typed Query Protocol, field selection, typed resources, and lazy resolvers for AI agent-tool communication
 - ✈️ **[CodePlane](https://github.com/tylergibbs1/codeplane)** - Transactional code coordination for AI agents, file versioning, leases, and atomic changesets on top of git
+- 🔀 **[toolmux](https://github.com/tylergibbs1/toolmux)** - Smart MCP proxy with V8 sandbox code execution, connect N MCP servers behind 2 meta-tools with O(1) token cost
 - ⚡ **[Faraday](https://faradaycrew.com)** - All-in-one platform for electrical contractors, estimating, invoicing, scheduling, GC portal, and AI assistant
 - 💸 **[cashflow](https://github.com/tylergibbs1/cashflow)** - Agent-first personal finance CLI with Plaid sync, budgets, FTS5 search, and MCP server
 - ☁️ **[Stratus](https://github.com/tylergibbs1/stratus)** - TypeScript agent SDK for Azure OpenAI with tools, handoffs, and streaming
