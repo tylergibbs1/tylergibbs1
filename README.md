@@ -15,11 +15,11 @@
 🎬 **[Applied Tensors](https://www.youtube.com/@appliedtensors)** | 🏥 **[backworkai.com](https://backworkai.com)**
 
 ## Current Projects
+- 🔀 **[toolmux](https://github.com/tylergibbs1/toolmux)** - Smart MCP proxy with V8 sandbox code execution, connect N MCP servers behind 2 meta-tools with O(1) token cost
 - 🧜 **[Siren](https://www.usesiren.dev/docs)** - JSON-native diagram system for React, 23 diagram types with validation, theming, and LLM compatibility
 - 🏕️ **[Campfire](https://github.com/tylergibbs1/campfire)** - Terraform for ads, declarative YAML configs for ad campaigns
 - 🔌 **[TQP](https://github.com/tylergibbs1/TQP)** - Typed Query Protocol, field selection, typed resources, and lazy resolvers for AI agent-tool communication
 - ✈️ **[CodePlane](https://github.com/tylergibbs1/codeplane)** - Transactional code coordination for AI agents, file versioning, leases, and atomic changesets on top of git
-- 🔀 **[toolmux](https://github.com/tylergibbs1/toolmux)** - Smart MCP proxy with V8 sandbox code execution, connect N MCP servers behind 2 meta-tools with O(1) token cost
 - ⚡ **[Faraday](https://faradaycrew.com)** - All-in-one platform for electrical contractors, estimating, invoicing, scheduling, GC portal, and AI assistant
 - 💸 **[cashflow](https://github.com/tylergibbs1/cashflow)** - Agent-first personal finance CLI with Plaid sync, budgets, FTS5 search, and MCP server
 - ☁️ **[Stratus](https://github.com/tylergibbs1/stratus)** - TypeScript agent SDK for Azure OpenAI with tools, handoffs, and streaming
@@ -43,13 +43,6 @@
 - ♟️ **[Chess AI](https://chess.appliedtensors.com/)** - Alpha Beta vs Monte Carlo, no neural nets, just algorithms
 - 🚗 **[Traffic Simulation](https://github.com/tylergibbs1/traffic-simulation)** - Can AVs eliminate traffic lights? Neural MPC says maybe
 - 📈 **[Lattice](https://github.com/tylergibbs1/lattice)** - 10 parallel agents analyze stocks via Munger's mental models
-
-### Legacy Work
-
-- 🤖 **[Altron](https://www.altronchat.com/)** - AI agent with custom tools, works with any LLM
-- ✅ **[FactScope](https://www.factscopeai.com)** - Grammarly but for facts, open source
-- 📧 **[Zinbo](https://github.com/tylergibbs1/zinbo)** - LLM-powered Gmail cleanup
-- 🤖 **[Jarvis](https://github.com/tylergibbs1/Project-Jarvis)** - The OG desktop assistant with long-term memory
 
 ## Connect
 
