@@ -19,7 +19,6 @@
 - 🌐 **[sieve](https://github.com/tylergibbs1/sieve)** - Virtual browser for AI agents. No Chromium. Parses HTML, builds a11y trees, simulates clicks/forms, 13KB/page, <1ms startup, 690 tests
 - 🧜 **[Siren](https://www.usesiren.dev/docs)** - JSON-native diagram system for React, 23 diagram types with validation, theming, and LLM compatibility
 - 🔌 **[TQP](https://github.com/tylergibbs1/TQP)** - Typed Query Protocol, field selection, typed resources, and lazy resolvers for AI agent-tool communication
-- ✈️ **[CodePlane](https://github.com/tylergibbs1/codeplane)** - Transactional code coordination for AI agents, file versioning, leases, and atomic changesets on top of git
 - ⚡ **[Faraday](https://faradaycrew.com)** - All-in-one platform for electrical contractors, estimating, invoicing, scheduling, GC portal, and AI assistant
 - 💸 **[cashflow](https://github.com/tylergibbs1/cashflow)** - Agent-first personal finance CLI with Plaid sync, budgets, FTS5 search, and MCP server
 - ☁️ **[Stratus](https://github.com/tylergibbs1/stratus)** - TypeScript agent SDK for Azure OpenAI with tools, handoffs, and streaming
