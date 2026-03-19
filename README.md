@@ -16,6 +16,7 @@
 
 ## Current Projects
 - 🔀 **[toolmux](https://github.com/tylergibbs1/toolmux)** - Smart MCP proxy with V8 sandbox code execution, connect N MCP servers behind 2 meta-tools with O(1) token cost
+- 🌐 **[sieve](https://github.com/tylergibbs1/sieve)** - Virtual browser for AI agents. No Chromium. Parses HTML, builds a11y trees, simulates clicks/forms, 13KB/page, <1ms startup, 690 tests
 - 🧜 **[Siren](https://www.usesiren.dev/docs)** - JSON-native diagram system for React, 23 diagram types with validation, theming, and LLM compatibility
 - 🔌 **[TQP](https://github.com/tylergibbs1/TQP)** - Typed Query Protocol, field selection, typed resources, and lazy resolvers for AI agent-tool communication
 - ✈️ **[CodePlane](https://github.com/tylergibbs1/codeplane)** - Transactional code coordination for AI agents, file versioning, leases, and atomic changesets on top of git
