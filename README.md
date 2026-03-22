@@ -21,7 +21,7 @@
 - ☁️ **[Stratus](https://github.com/tylergibbs1/stratus)** - TypeScript agent SDK for Azure OpenAI with tools, handoffs, and streaming
 - 🍞 **[Breadcrumb](https://github.com/tylergibbs1/breadcrumb)** - Agents leave notes for other agents about files across sessions
 - 📡 **[Stream Schema](https://github.com/tylergibbs1/stream-schema)** - Parse LLM JSON token by token with incremental validation
-- 🏗️ **[tinstack](https://github.com/tylergibbs1/tinstack)** - Lightweight local AWS emulator in TypeScript + Bun, 12 services with in-memory/SQLite storage
+- 🏗️ **[tinstack](https://github.com/tylergibbs1/tinstack)** - Drop-in local AWS on a single port, 18 services in one Bun binary, point any SDK at localhost:4566 and go
 
 ## Web & Data
 - 🦉 **[Noctua](https://github.com/tylergibbs1/noctua)** - AI-powered scraper and data acquisition agent with 24 tools, Playwright browser, and crawl4ai
