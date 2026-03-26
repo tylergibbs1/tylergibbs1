@@ -16,12 +16,10 @@
 🎬 **[Applied Tensors](https://www.youtube.com/@appliedtensors)** | 🏥 **[backworkai.com](https://backworkai.com)**
 
 ## Agent Infrastructure
-- 🔀 **[toolmux](https://github.com/tylergibbs1/toolmux)** - Smart MCP proxy with V8 sandbox code execution, connect N MCP servers behind 2 meta-tools with O(1) token cost
 - 🏖️ **[sandcastle](https://github.com/tylergibbs1/sandcastle)** - Lightweight WASM-based sandbox runtime for AI agent code execution
+- 🔀 **[toolmux](https://github.com/tylergibbs1/toolmux)** - Smart MCP proxy with V8 sandbox code execution, connect N MCP servers behind 2 meta-tools with O(1) token cost
 - 🌐 **[sieve](https://github.com/tylergibbs1/sieve)** - Virtual browser for AI agents, no Chromium — parses HTML, builds a11y trees, clicks, forms, cookies
-- 🔌 **[TQP](https://github.com/tylergibbs1/TQP)** - Typed Query Protocol, field selection, typed resources, and lazy resolvers for AI agent-tool communication
 - ☁️ **[Stratus](https://github.com/tylergibbs1/stratus)** - TypeScript agent SDK for Azure OpenAI with tools, handoffs, and streaming
-- 🍞 **[Breadcrumb](https://github.com/tylergibbs1/breadcrumb)** - Agents leave notes for other agents about files across sessions
 - 📡 **[Stream Schema](https://github.com/tylergibbs1/stream-schema)** - Parse LLM JSON token by token with incremental validation
 - 🏗️ **[tinstack](https://github.com/tylergibbs1/tinstack)** - Drop-in local AWS on a single port, 18 services in one Bun binary, point any SDK at localhost:4566 and go
 
