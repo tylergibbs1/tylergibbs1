@@ -4,6 +4,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
@@ -16,12 +17,16 @@
 
 ## Agent Infrastructure
 - 🔀 **[toolmux](https://github.com/tylergibbs1/toolmux)** - Smart MCP proxy with V8 sandbox code execution, connect N MCP servers behind 2 meta-tools with O(1) token cost
+- 🏖️ **[sandcastle](https://github.com/tylergibbs1/sandcastle)** - Lightweight WASM-based sandbox runtime for AI agent code execution
 - 🌐 **[sieve](https://github.com/tylergibbs1/sieve)** - Virtual browser for AI agents, no Chromium — parses HTML, builds a11y trees, clicks, forms, cookies
 - 🔌 **[TQP](https://github.com/tylergibbs1/TQP)** - Typed Query Protocol, field selection, typed resources, and lazy resolvers for AI agent-tool communication
 - ☁️ **[Stratus](https://github.com/tylergibbs1/stratus)** - TypeScript agent SDK for Azure OpenAI with tools, handoffs, and streaming
 - 🍞 **[Breadcrumb](https://github.com/tylergibbs1/breadcrumb)** - Agents leave notes for other agents about files across sessions
 - 📡 **[Stream Schema](https://github.com/tylergibbs1/stream-schema)** - Parse LLM JSON token by token with incremental validation
 - 🏗️ **[tinstack](https://github.com/tylergibbs1/tinstack)** - Drop-in local AWS on a single port, 18 services in one Bun binary, point any SDK at localhost:4566 and go
+
+## Systems & Networking
+- 🚀 **[bytehaul](https://github.com/tylergibbs1/bytehaul)** - QUIC-based fast file transfer protocol. 2x+ faster than scp on high-latency links
 
 ## Web & Data
 - 🦉 **[Noctua](https://github.com/tylergibbs1/noctua)** - AI-powered scraper and data acquisition agent with 24 tools, Playwright browser, and crawl4ai
@@ -39,6 +44,7 @@
 
 ## Products
 - ⚡ **[Faraday](https://faradaycrew.com)** - All-in-one platform for electrical contractors, estimating, invoicing, scheduling, GC portal, and AI assistant
+- 📰 **[betterhn](https://github.com/tylergibbs1/betterhn)** - A modern, fast Hacker News client built with Next.js 16, Convex, and React 19
 
 ## Research & Fun
 - 🤖 **[LLM Robotic Dog](https://youtu.be/Xs0VmfZI658)** - Natural language control for robotic dogs via Claude
