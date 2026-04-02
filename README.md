@@ -16,7 +16,7 @@
 🎬 **[Applied Tensors](https://www.youtube.com/@appliedtensors)** | 🏥 **[backworkai.com](https://backworkai.com)**
 
 ## Agent Infrastructure
-- 🏖️ **[sandcastle](https://github.com/tylergibbs1/sandcastle)** - Lightweight WASM-based sandbox runtime for AI agent code execution
+- 🏖️ **[sandcastle](https://github.com/tylergibbs1/sandcastle)** - The fastest way to run untrusted JavaScript safely — zero config, 380K ops/sec
 - 🧬 **[evolve](https://github.com/tylergibbs1/evolve)** - Metacognitive self-improving agent framework. TypeScript DGM-H (Darwin Godel Machine with Hyperagents)
 - 🔀 **[toolmux](https://github.com/tylergibbs1/toolmux)** - Smart MCP proxy with V8 sandbox code execution, connect N MCP servers behind 2 meta-tools with O(1) token cost
 - 🌐 **[sieve](https://github.com/tylergibbs1/sieve)** - Virtual browser for AI agents, no Chromium — parses HTML, builds a11y trees, clicks, forms, cookies
