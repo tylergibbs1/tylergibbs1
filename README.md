@@ -42,6 +42,7 @@
 - 📊 **[ClaimGraph](https://github.com/tylergibbs1/claimgraph)** - Turn research questions into interactive knowledge graphs
 
 ## Products
+- 🖨️ **[Typeset](https://github.com/tylergibbs1/typeset)** - Deterministic document pipelines — render, verify, extract with full audit lineage
 - 🔍 **[Verity](https://backworkai.com)** - Coverage intelligence for healthcare. Search Medicare, Medicaid, and commercial payer policies in plain English
 - ⚡ **[Faraday](https://faradaycrew.com)** - All-in-one platform for electrical contractors, estimating, invoicing, scheduling, GC portal, and AI assistant
 - 📰 **[betterhn](https://github.com/tylergibbs1/betterhn)** - A modern, fast Hacker News client built with Next.js 16, Convex, and React 19
