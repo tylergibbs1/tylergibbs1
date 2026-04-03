@@ -55,7 +55,7 @@
 - 📉 **[Tradecraft](https://github.com/tylergibbs1/tradecraft)** - Autonomous trading TUI with strategy evolution and backtesting
 - 🎞️ **[slidegen](https://github.com/tylergibbs1/slidegen)** - Agent-first CLI for generating PowerPoint decks from prompts
 - ♟️ **[Chess AI](https://chess.appliedtensors.com/)** - Alpha Beta vs Monte Carlo, no neural nets, just algorithms
-- 🚗 **[Traffic Simulation](https://github.com/tylergibbs1/traffic-simulation)** - Can AVs eliminate traffic lights? Neural MPC says maybe
+- 🚗 **[Traffic Simulation](https://github.com/tylergibbs1/autocar)** - Can AVs eliminate traffic lights? Neural MPC says maybe
 
 ## Connect
 
