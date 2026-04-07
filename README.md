@@ -29,6 +29,7 @@
 - 🚀 **[bytehaul](https://github.com/tylergibbs1/bytehaul)** - QUIC-based fast file transfer protocol. 2x+ faster than scp on high-latency links
 
 ## Web & Data
+- 🕸️ **[Feedstock](https://github.com/tylergibbs1/feedstock)** - High-performance web crawler for TypeScript/Bun with fetch-first engines, deep crawling, and 50+ metadata extraction
 - 🦉 **[Noctua](https://github.com/tylergibbs1/noctua)** - AI-powered scraper and data acquisition agent with 24 tools, Playwright browser, and crawl4ai
 - 🧭 **[Helm](https://github.com/tylergibbs1/helm)** - Semantic browser automation MCP server, click by label, not selector
 - 🗃️ **[extractr](https://github.com/tylergibbs1/extractr)** - Template-based data extraction from web pages with YAML configs
