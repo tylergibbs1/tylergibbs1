@@ -46,6 +46,7 @@
 - 📊 **[ClaimGraph](https://github.com/tylergibbs1/claimgraph)** - Turn research questions into interactive knowledge graphs
 
 ## Products
+- 🔌 **[surge](https://github.com/tylergibbs1/surge)** - Open day-ahead load forecasts for the US grid. Chronos-2 fine-tune, MASE 0.45 across 7 ISOs — matches utility-internal accuracy, free and open-source
 - 🖨️ **[Typeset](https://github.com/tylergibbs1/typeset)** - Deterministic document pipelines — render, verify, extract with full audit lineage
 - 🔍 **[Verity](https://backworkai.com)** - Coverage intelligence for healthcare. Search Medicare, Medicaid, and commercial payer policies in plain English
 - ⚡ **[Faraday](https://faradaycrew.com)** - All-in-one platform for electrical contractors, estimating, invoicing, scheduling, GC portal, and AI assistant
