@@ -44,6 +44,7 @@
 - 🫁 **[CT-Search](https://github.com/tylergibbs1/ct-search)** – Semantic search over chest CT archives with natural language
 - 🩺 **[MedFlow](https://soapbw.vercel.app/)** - Generate professional SOAP notes in seconds with AI
 - 📊 **[ClaimGraph](https://github.com/tylergibbs1/claimgraph)** - Turn research questions into interactive knowledge graphs
+- 🔬 **[GutCheck](https://github.com/tylergibbs1/gutcheck)** - SAM 3.1 vs DINOv3 vs PraNet on colonoscopy polyp segmentation — six years of foundation-model progress vs a 2020 specialist
 
 ## Products
 - 🔌 **[surge](https://github.com/tylergibbs1/surge)** - Open day-ahead load forecasts for the US grid. Chronos-2 fine-tune, MASE 0.45 across 7 ISOs — matches utility-internal accuracy, free and open-source
