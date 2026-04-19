@@ -25,6 +25,7 @@
 - 🏗️ **[tinstack](https://github.com/tylergibbs1/tinstack)** - Drop-in local AWS on a single port, 18 services in one Bun binary, point any SDK at localhost:4566 and go
 - 🔍 **[grepvec](https://github.com/tylergibbs1/grepvec)** - Grep-style vector similarity search over local files — no index build step, no daemons, turbovec + fastembed
 - 🌐 **[agentgate](https://github.com/tylergibbs1/agentgate)** - DNS for the agent era — protocol + SDK that lets AI agents discover and call internet APIs via natural language intents
+- 📚 **[arxivcli](https://github.com/tylergibbs1/arxivcli)** - Agent-first arXiv CLI, no API key — scrapes HTML, JSON output, schema introspection, field filtering to save context
 
 ## Systems & Networking
 - 🚀 **[bytehaul](https://github.com/tylergibbs1/bytehaul)** - QUIC-based fast file transfer protocol. 2x+ faster than scp on high-latency links
