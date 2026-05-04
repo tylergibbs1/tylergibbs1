@@ -13,7 +13,7 @@
 
 > Messing around with AI and shipping things that help people.
 
-🎬 **[Applied Tensors](https://www.youtube.com/@appliedtensors)** | 🏥 **[backworkai.com](https://backworkai.com)**
+🎬 **[Applied Tensors](https://www.youtube.com/@appliedtensors)**
 
 ## Agent Infrastructure
 - 🔮 **[foresight](https://github.com/tylergibbs1/foresight)** - Stops AI agents from making destructive mistakes. Predicts what a tool call will do before running it, blocks it if the outcome is wrong
@@ -67,4 +67,5 @@
 
 [![Twitter](https://img.shields.io/badge/-@tylergibbs1-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tylergibbs1)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tylergibbs1)
+
 
