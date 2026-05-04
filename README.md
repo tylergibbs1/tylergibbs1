@@ -18,11 +18,9 @@
 ## Agent Infrastructure
 - 🔮 **[foresight](https://github.com/tylergibbs1/foresight)** - Stops AI agents from making destructive mistakes. Predicts what a tool call will do before running it, blocks it if the outcome is wrong
 - 🏖️ **[sandcastle](https://github.com/tylergibbs1/sandcastle)** - The fastest way to run untrusted JavaScript safely — zero config, 380K ops/sec
-- 🔀 **[toolmux](https://github.com/tylergibbs1/toolmux)** - Smart MCP proxy with V8 sandbox code execution, connect N MCP servers behind 2 meta-tools with O(1) token cost
 - 🌐 **[sieve](https://github.com/tylergibbs1/sieve)** - Virtual browser for AI agents, no Chromium — parses HTML, builds a11y trees, clicks, forms, cookies
 - ☁️ **[Stratus](https://usestratus.dev/)** - TypeScript agent SDK for Azure OpenAI with tools, handoffs, and streaming
 - 📡 **[Stream Schema](https://github.com/tylergibbs1/stream-schema)** - Parse LLM JSON token by token with incremental validation
-- 🏗️ **[tinstack](https://github.com/tylergibbs1/tinstack)** - Drop-in local AWS on a single port, 18 services in one Bun binary, point any SDK at localhost:4566 and go
 - 🔍 **[grepvec](https://github.com/tylergibbs1/grepvec)** - Grep-style vector similarity search over local files — no index build step, no daemons, turbovec + fastembed
 - 🌐 **[agentgate](https://github.com/tylergibbs1/agentgate)** - DNS for the agent era — protocol + SDK that lets AI agents discover and call internet APIs via natural language intents
 - 📚 **[arxivcli](https://github.com/tylergibbs1/arxivcli)** - Agent-first arXiv CLI, no API key — scrapes HTML, JSON output, schema introspection, field filtering to save context
@@ -67,5 +65,6 @@
 
 [![Twitter](https://img.shields.io/badge/-@tylergibbs1-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tylergibbs1)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tylergibbs1)
+
 
 
