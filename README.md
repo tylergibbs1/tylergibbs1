@@ -17,12 +17,9 @@
 
 ## Agent Infrastructure
 - 🔮 **[foresight](https://github.com/tylergibbs1/foresight)** - Stops AI agents from making destructive mistakes. Predicts what a tool call will do before running it, blocks it if the outcome is wrong
-- 🏖️ **[sandcastle](https://github.com/tylergibbs1/sandcastle)** - The fastest way to run untrusted JavaScript safely — zero config, 380K ops/sec
 - 🌐 **[sieve](https://github.com/tylergibbs1/sieve)** - Virtual browser for AI agents, no Chromium — parses HTML, builds a11y trees, clicks, forms, cookies
 - ☁️ **[Stratus](https://usestratus.dev/)** - TypeScript agent SDK for Azure OpenAI with tools, handoffs, and streaming
-- 📡 **[Stream Schema](https://github.com/tylergibbs1/stream-schema)** - Parse LLM JSON token by token with incremental validation
 - 🔍 **[grepvec](https://github.com/tylergibbs1/grepvec)** - Grep-style vector similarity search over local files — no index build step, no daemons, turbovec + fastembed
-- 🌐 **[agentgate](https://github.com/tylergibbs1/agentgate)** - DNS for the agent era — protocol + SDK that lets AI agents discover and call internet APIs via natural language intents
 - 📚 **[arxivcli](https://github.com/tylergibbs1/arxivcli)** - Agent-first arXiv CLI, no API key — scrapes HTML, JSON output, schema introspection, field filtering to save context
 
 ## Systems & Networking
@@ -30,7 +27,6 @@
 
 ## Web & Data
 - 🕸️ **[Feedstock](https://github.com/tylergibbs1/feedstock)** - High-performance web crawler for TypeScript/Bun with fetch-first engines, deep crawling, and 50+ metadata extraction
-- 🦉 **[Noctua](https://github.com/tylergibbs1/noctua)** - AI-powered scraper and data acquisition agent with 24 tools, Playwright browser, and crawl4ai
 - 🧭 **[Helm](https://github.com/tylergibbs1/helm)** - Semantic browser automation MCP server, click by label, not selector
 - 🗃️ **[extractr](https://github.com/tylergibbs1/extractr)** - Template-based data extraction from web pages with YAML configs
 - 🔎 **[domql](https://github.com/tylergibbs1/domql)** - SQL syntax for DOM querying, query web pages like databases
