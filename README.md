@@ -40,6 +40,7 @@
 - 🔬 **[GutCheck](https://github.com/tylergibbs1/gutcheck)** - Does today's AI spot colon polyps better than a 2020 model? The old one still wins.
 
 ## Products
+- 🎨 **[Substrate](https://github.com/tylergibbs1/substrate)** - Desktop app for AI-generated raster slide decks. The prompt is the only editable artifact — humans and agents co-author the same prompts over MCP
 - 📐 **[Datum](https://datum.grayhavenlabs.com/)** - Text-to-CAD chat. Parametric OpenSCAD models with live preview, edit in natural language, export STL/OBJ/GLB
 - 🔌 **[surge](https://github.com/tylergibbs1/surge)** - Open day-ahead load forecasts for the US grid. Chronos-2 fine-tune, MASE 0.45 across 7 ISOs — matches utility-internal accuracy, free and open-source
 - 🖨️ **[Typeset](https://github.com/tylergibbs1/typeset)** - Deterministic document pipelines — render, verify, extract with full audit lineage
