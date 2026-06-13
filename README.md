@@ -1,14 +1,29 @@
 # Tyler
 
-Messing around with AI and shipping things that help people. Roughly 30 of them so far, below.
+Messing around with AI and shipping things that help people. Roughly 30 so far, spanning agent infrastructure, healthcare tooling, grid forecasting, and text-to-CAD. Some are open-source, some are live products.
 
 Python · TypeScript · Rust · Node.js · Next.js
 
 [Applied Tensors](https://www.youtube.com/@appliedtensors), building in public on YouTube
 
-## 🤖 Agent infrastructure
+## ⭐ Featured
 
-**[foresight](https://github.com/tylergibbs1/foresight)** - Stops AI agents from making destructive mistakes. Predicts what a tool call will do before it runs, and blocks it if the outcome is wrong.
+**[foresight](https://github.com/tylergibbs1/foresight)** · agent safety  
+Stops AI agents from making destructive mistakes. Predicts what a tool call will do before it runs, and blocks it if the outcome is wrong.
+
+**[surge](https://github.com/tylergibbs1/surge)** · ML / grid forecasting  
+Open day-ahead load forecasts for the US grid. A Chronos-2 fine-tune at MASE 0.45 across 7 ISOs, matching utility-internal accuracy. Free and open-source.
+
+**[Verity](https://backworkai.com)** · healthcare, live  
+Coverage intelligence for healthcare. Search Medicare, Medicaid, and commercial payer policies in plain English.
+
+**[Faraday](https://faradaycrew.com)** · product, live  
+Platform for electrical contractors: estimating, invoicing, scheduling, GC portal, and an AI assistant.
+
+**[Datum](https://datum.grayhavenlabs.com/)** · text-to-CAD, live  
+Text-to-CAD chat. Parametric OpenSCAD models with live preview, edited in natural language, exported to STL, OBJ, or GLB.
+
+## 🤖 Agent infrastructure
 
 **[sieve](https://github.com/tylergibbs1/sieve)** - Virtual browser for AI agents, no Chromium. Parses HTML, builds accessibility trees, clicks, fills forms, handles cookies.
 
@@ -52,15 +67,7 @@ Python · TypeScript · Rust · Node.js · Next.js
 
 **[Substrate](https://github.com/tylergibbs1/substrate)** - Desktop app for AI-generated raster slide decks. The prompt is the only editable artifact, so humans and agents co-author the same prompts over MCP.
 
-**[Datum](https://datum.grayhavenlabs.com/)** - Text-to-CAD chat. Parametric OpenSCAD models with live preview, edited in natural language, exported to STL, OBJ, or GLB.
-
-**[surge](https://github.com/tylergibbs1/surge)** - Open day-ahead load forecasts for the US grid. Chronos-2 fine-tune, MASE 0.45 across 7 ISOs, matching utility-internal accuracy. Free and open-source.
-
 **[Typeset](https://github.com/tylergibbs1/typeset)** - Deterministic document pipelines. Render, verify, and extract with full audit lineage.
-
-**[Verity](https://backworkai.com)** - Coverage intelligence for healthcare. Search Medicare, Medicaid, and commercial payer policies in plain English.
-
-**[Faraday](https://faradaycrew.com)** - Platform for electrical contractors. Estimating, invoicing, scheduling, GC portal, and an AI assistant.
 
 **[betterhn](https://github.com/tylergibbs1/betterhn)** - A fast, modern Hacker News client built with Next.js 16, Convex, and React 19.
 
@@ -82,4 +89,4 @@ Python · TypeScript · Rust · Node.js · Next.js
 
 ## Connect
 
-[Twitter](https://twitter.com/tylergibbs1) · [GitHub](https://github.com/tylergibbs1)
+[X](https://x.com/Tylerbryy) · [GitHub](https://github.com/tylergibbs1)
