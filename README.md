@@ -20,8 +20,6 @@ Coverage intelligence for healthcare. Search Medicare, Medicaid, and commercial 
 **[Faraday](https://faradaycrew.com)** · product, live  
 Platform for electrical contractors: estimating, invoicing, scheduling, GC portal, and an AI assistant.
 
-**[Datum](https://datum.grayhavenlabs.com/)** · text-to-CAD, live  
-Text-to-CAD chat. Parametric OpenSCAD models with live preview, edited in natural language, exported to STL, OBJ, or GLB.
 
 ## 🤖 Agent infrastructure
 
