@@ -1,66 +1,85 @@
-# Tyler 
+# Tyler
 
+Messing around with AI and shipping things that help people. Roughly 30 of them so far, below.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+Python · TypeScript · Rust · Node.js · Next.js
 
-> Messing around with AI and shipping things that help people.
+[Applied Tensors](https://www.youtube.com/@appliedtensors), building in public on YouTube
 
-🎬 **[Applied Tensors](https://www.youtube.com/@appliedtensors)**
+## 🤖 Agent infrastructure
 
-## Agent Infrastructure
-- 🔮 **[foresight](https://github.com/tylergibbs1/foresight)** - Stops AI agents from making destructive mistakes. Predicts what a tool call will do before running it, blocks it if the outcome is wrong
-- 🌐 **[sieve](https://github.com/tylergibbs1/sieve)** - Virtual browser for AI agents, no Chromium — parses HTML, builds a11y trees, clicks, forms, cookies
-- ☁️ **[Stratus](https://usestratus.dev/)** - TypeScript agent SDK for Azure OpenAI with tools, handoffs, and streaming
-- 🔍 **[grepvec](https://github.com/tylergibbs1/grepvec)** - Grep-style vector similarity search over local files — no index build step, no daemons, turbovec + fastembed
-- 📚 **[arxivcli](https://github.com/tylergibbs1/arxivcli)** - Agent-first arXiv CLI, no API key — scrapes HTML, JSON output, schema introspection, field filtering to save context
+**[foresight](https://github.com/tylergibbs1/foresight)** - Stops AI agents from making destructive mistakes. Predicts what a tool call will do before it runs, and blocks it if the outcome is wrong.
 
-## Systems & Networking
-- 🚀 **[bytehaul](https://github.com/tylergibbs1/bytehaul)** - QUIC-based fast file transfer protocol. 2x+ faster than scp on high-latency links
+**[sieve](https://github.com/tylergibbs1/sieve)** - Virtual browser for AI agents, no Chromium. Parses HTML, builds accessibility trees, clicks, fills forms, handles cookies.
 
-## Web & Data
-- 🕸️ **[Feedstock](https://github.com/tylergibbs1/feedstock)** - High-performance web crawler for TypeScript/Bun with fetch-first engines, deep crawling, and 50+ metadata extraction
-- 🧭 **[Helm](https://github.com/tylergibbs1/helm)** - Semantic browser automation MCP server, click by label, not selector
-- 🗃️ **[extractr](https://github.com/tylergibbs1/extractr)** - Template-based data extraction from web pages with YAML configs
-- 🔎 **[domql](https://github.com/tylergibbs1/domql)** - SQL syntax for DOM querying, query web pages like databases
-- 🧬 **[schemasniff](https://github.com/tylergibbs1/schemasniff)** - Auto-infer scraping schemas from pages with repeated content
+**[Stratus](https://usestratus.dev/)** - TypeScript agent SDK for Azure OpenAI with tools, handoffs, and streaming.
 
-## Healthcare
-- 💊 **[FirstClaim](https://github.com/tylergibbs1/firstclaim)** - AI agent that extracts and scores medical billing claims from clinical notes
-- 🛡️ **[ClaimGuard](https://github.com/backworkai/claimguard)** - Autonomous medical billing denial prediction, HIPAA-safe by design
-- 🫁 **[CT-Search](https://github.com/tylergibbs1/ct-search)** – Semantic search over chest CT archives with natural language
-- 🩺 **[MedFlow](https://soapbw.vercel.app/)** - Generate professional SOAP notes in seconds with AI
-- 📊 **[ClaimGraph](https://github.com/tylergibbs1/claimgraph)** - Turn research questions into interactive knowledge graphs
-- 🔬 **[GutCheck](https://github.com/tylergibbs1/gutcheck)** - Does today's AI spot colon polyps better than a 2020 model? The old one still wins.
+**[grepvec](https://github.com/tylergibbs1/grepvec)** - Grep-style vector similarity search over local files. No index build step, no daemons. turbovec + fastembed.
 
-## Products
-- 🎨 **[Substrate](https://github.com/tylergibbs1/substrate)** - Desktop app for AI-generated raster slide decks. The prompt is the only editable artifact — humans and agents co-author the same prompts over MCP
-- 📐 **[Datum](https://datum.grayhavenlabs.com/)** - Text-to-CAD chat. Parametric OpenSCAD models with live preview, edit in natural language, export STL/OBJ/GLB
-- 🔌 **[surge](https://github.com/tylergibbs1/surge)** - Open day-ahead load forecasts for the US grid. Chronos-2 fine-tune, MASE 0.45 across 7 ISOs — matches utility-internal accuracy, free and open-source
-- 🖨️ **[Typeset](https://github.com/tylergibbs1/typeset)** - Deterministic document pipelines — render, verify, extract with full audit lineage
-- 🔍 **[Verity](https://backworkai.com)** - Coverage intelligence for healthcare. Search Medicare, Medicaid, and commercial payer policies in plain English
-- ⚡ **[Faraday](https://faradaycrew.com)** - All-in-one platform for electrical contractors, estimating, invoicing, scheduling, GC portal, and AI assistant
-- 📰 **[betterhn](https://github.com/tylergibbs1/betterhn)** - A modern, fast Hacker News client built with Next.js 16, Convex, and React 19
+**[arxivcli](https://github.com/tylergibbs1/arxivcli)** - Agent-first arXiv CLI, no API key. Scrapes HTML, outputs JSON, introspects schemas, filters fields to save context.
 
-## Research & Fun
-- 🤖 **[LLM Robotic Dog](https://youtu.be/Xs0VmfZI658)** - Natural language control for robotic dogs via Claude
-- 👁️ **[IRIS](https://github.com/tylergibbs1/iris)** - Force vision LLMs to verify with SAM 3 segmentation masks
-- 📈 **[Lattice](https://github.com/tylergibbs1/lattice)** - 10 parallel agents analyze stocks via Munger's mental models
-- 📉 **[Tradecraft](https://github.com/tylergibbs1/tradecraft)** - Autonomous trading TUI with strategy evolution and backtesting
-- 🎞️ **[slidegen](https://github.com/tylergibbs1/slidegen)** - Agent-first CLI for generating PowerPoint decks from prompts
-- ♟️ **[Chess AI](https://chess.appliedtensors.com/)** - Alpha Beta vs Monte Carlo, no neural nets, just algorithms
-- 🚗 **[Traffic Simulation](https://github.com/tylergibbs1/autocar)** - Can AVs eliminate traffic lights? Neural MPC says maybe
+## 🛰️ Systems and networking
+
+**[bytehaul](https://github.com/tylergibbs1/bytehaul)** - QUIC-based fast file transfer protocol. More than 2x faster than scp on high-latency links.
+
+## 🕸️ Web and data
+
+**[Feedstock](https://github.com/tylergibbs1/feedstock)** - Web crawler for TypeScript and Bun. Fetch-first engines, deep crawling, 50+ metadata fields.
+
+**[Helm](https://github.com/tylergibbs1/helm)** - Semantic browser automation MCP server. Click by label, not selector.
+
+**[extractr](https://github.com/tylergibbs1/extractr)** - Template-based data extraction from web pages, configured in YAML.
+
+**[domql](https://github.com/tylergibbs1/domql)** - SQL syntax for the DOM. Query web pages like databases.
+
+**[schemasniff](https://github.com/tylergibbs1/schemasniff)** - Infers scraping schemas automatically from pages with repeated content.
+
+## 🩺 Healthcare
+
+**[FirstClaim](https://github.com/tylergibbs1/firstclaim)** - AI agent that extracts and scores medical billing claims from clinical notes.
+
+**[ClaimGuard](https://github.com/backworkai/claimguard)** - Autonomous medical billing denial prediction. HIPAA-safe by design.
+
+**[CT-Search](https://github.com/tylergibbs1/ct-search)** - Semantic search over chest CT archives in natural language.
+
+**[MedFlow](https://soapbw.vercel.app/)** - Generates professional SOAP notes in seconds with AI.
+
+**[ClaimGraph](https://github.com/tylergibbs1/claimgraph)** - Turns research questions into interactive knowledge graphs.
+
+**[GutCheck](https://github.com/tylergibbs1/gutcheck)** - Does today's AI spot colon polyps better than a 2020 model? The old one still wins.
+
+## ⚡ Products
+
+**[Substrate](https://github.com/tylergibbs1/substrate)** - Desktop app for AI-generated raster slide decks. The prompt is the only editable artifact, so humans and agents co-author the same prompts over MCP.
+
+**[Datum](https://datum.grayhavenlabs.com/)** - Text-to-CAD chat. Parametric OpenSCAD models with live preview, edited in natural language, exported to STL, OBJ, or GLB.
+
+**[surge](https://github.com/tylergibbs1/surge)** - Open day-ahead load forecasts for the US grid. Chronos-2 fine-tune, MASE 0.45 across 7 ISOs, matching utility-internal accuracy. Free and open-source.
+
+**[Typeset](https://github.com/tylergibbs1/typeset)** - Deterministic document pipelines. Render, verify, and extract with full audit lineage.
+
+**[Verity](https://backworkai.com)** - Coverage intelligence for healthcare. Search Medicare, Medicaid, and commercial payer policies in plain English.
+
+**[Faraday](https://faradaycrew.com)** - Platform for electrical contractors. Estimating, invoicing, scheduling, GC portal, and an AI assistant.
+
+**[betterhn](https://github.com/tylergibbs1/betterhn)** - A fast, modern Hacker News client built with Next.js 16, Convex, and React 19.
+
+## 🔬 Research and fun
+
+**[LLM Robotic Dog](https://youtu.be/Xs0VmfZI658)** - Natural language control for robotic dogs via Claude.
+
+**[IRIS](https://github.com/tylergibbs1/iris)** - Forces vision LLMs to verify with SAM 3 segmentation masks.
+
+**[Lattice](https://github.com/tylergibbs1/lattice)** - 10 parallel agents analyze stocks through Munger's mental models.
+
+**[Tradecraft](https://github.com/tylergibbs1/tradecraft)** - Autonomous trading TUI with strategy evolution and backtesting.
+
+**[slidegen](https://github.com/tylergibbs1/slidegen)** - Agent-first CLI for generating PowerPoint decks from prompts.
+
+**[Chess AI](https://chess.appliedtensors.com/)** - Alpha-beta vs Monte Carlo. No neural nets, just algorithms.
+
+**[Traffic Simulation](https://github.com/tylergibbs1/autocar)** - Can AVs eliminate traffic lights? Neural MPC says maybe.
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@tylergibbs1-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tylergibbs1)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tylergibbs1)
-
-
-
+[Twitter](https://twitter.com/tylergibbs1) · [GitHub](https://github.com/tylergibbs1)
