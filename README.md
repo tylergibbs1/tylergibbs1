@@ -9,16 +9,16 @@ Python · TypeScript · Rust · Node.js · Next.js
 ## ⭐ Featured
 
 **[foresight](https://github.com/tylergibbs1/foresight)** · agent safety  
-Stops AI agents from making destructive mistakes. Predicts what a tool call will do before it runs, and blocks it if the outcome is wrong.
+An undo button that fires before the mistake. foresight predicts what an AI agent's tool call will do, and blocks it the moment the outcome looks wrong.
 
 **[surge](https://github.com/tylergibbs1/surge)** · ML / grid forecasting  
-Open day-ahead load forecasts for the US grid. A Chronos-2 fine-tune at MASE 0.45 across 7 ISOs, matching utility-internal accuracy. Free and open-source.
+Utility-grade load forecasts for the US grid, free and open. A Chronos-2 fine-tune hitting MASE 0.45 across 7 ISOs — matching the accuracy utilities keep behind closed doors.
 
 **[Verity](https://backworkai.com)** · healthcare, live  
-Coverage intelligence for healthcare. Search Medicare, Medicaid, and commercial payer policies in plain English.
+Every payer's coverage rules, searchable in plain English. Ask Medicare, Medicaid, and commercial policies a question and get the answer in seconds instead of digging through PDFs.
 
 **[Faraday](https://faradaycrew.com)** · product, live  
-Platform for electrical contractors: estimating, invoicing, scheduling, GC portal, and an AI assistant.
+The operating system for electrical contractors. Estimating, invoicing, scheduling, and a GC portal — with an AI assistant running the back office.
 
 
 ## 🤖 Agent infrastructure
