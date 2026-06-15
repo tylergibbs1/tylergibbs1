@@ -23,41 +23,41 @@ Platform for electrical contractors: estimating, invoicing, scheduling, GC porta
 
 ## 🤖 Agent infrastructure
 
-**[sieve](https://github.com/tylergibbs1/sieve)** - Virtual browser for AI agents, no Chromium. Parses HTML, builds accessibility trees, clicks, fills forms, handles cookies.
+**[sieve](https://github.com/tylergibbs1/sieve)** - A full browser for AI agents, minus the 300MB of Chromium. Parses HTML, builds accessibility trees, clicks, fills forms, and handles cookies.
 
-**[Stratus](https://usestratus.dev/)** - TypeScript agent SDK for Azure OpenAI with tools, handoffs, and streaming.
+**[Stratus](https://usestratus.dev/)** - Ship Azure OpenAI agents in TypeScript. Tools, multi-agent handoffs, and streaming, batteries included.
 
-**[grepvec](https://github.com/tylergibbs1/grepvec)** - Grep-style vector similarity search over local files. No index build step, no daemons. turbovec + fastembed.
+**[grepvec](https://github.com/tylergibbs1/grepvec)** - Semantic search that feels like grep. Vector similarity over local files with no index step and no daemons — just turbovec + fastembed.
 
-**[arxivcli](https://github.com/tylergibbs1/arxivcli)** - Agent-first arXiv CLI, no API key. Scrapes HTML, outputs JSON, introspects schemas, filters fields to save context.
+**[arxivcli](https://github.com/tylergibbs1/arxivcli)** - arXiv, built for agents, no API key required. Scrapes HTML to clean JSON, introspects its own schemas, and trims fields to save context.
 
 ## 🛰️ Systems and networking
 
-**[bytehaul](https://github.com/tylergibbs1/bytehaul)** - QUIC-based fast file transfer protocol. More than 2x faster than scp on high-latency links.
+**[bytehaul](https://github.com/tylergibbs1/bytehaul)** - Move files over QUIC and leave scp behind — 2x+ faster on high-latency links.
 
 ## 🕸️ Web and data
 
-**[Feedstock](https://github.com/tylergibbs1/feedstock)** - Web crawler for TypeScript and Bun. Fetch-first engines, deep crawling, 50+ metadata fields.
+**[Feedstock](https://github.com/tylergibbs1/feedstock)** - A crawler for TypeScript and Bun that goes deep. Fetch-first engines, recursive crawling, and 50+ metadata fields per page.
 
-**[Helm](https://github.com/tylergibbs1/helm)** - Semantic browser automation MCP server. Click by label, not selector.
+**[Helm](https://github.com/tylergibbs1/helm)** - Browser automation that reads a page like a human. Click by label, not by brittle selector — exposed over MCP.
 
-**[extractr](https://github.com/tylergibbs1/extractr)** - Template-based data extraction from web pages, configured in YAML.
+**[extractr](https://github.com/tylergibbs1/extractr)** - Turn any web page into structured data with a few lines of YAML. No scraping code to maintain.
 
-**[domql](https://github.com/tylergibbs1/domql)** - SQL syntax for the DOM. Query web pages like databases.
+**[domql](https://github.com/tylergibbs1/domql)** - SELECT * FROM the web. Query any page's DOM with real SQL syntax.
 
-**[schemasniff](https://github.com/tylergibbs1/schemasniff)** - Infers scraping schemas automatically from pages with repeated content.
+**[schemasniff](https://github.com/tylergibbs1/schemasniff)** - Point it at a page and it reverse-engineers the scraping schema for you, wherever content repeats.
 
 ## 🩺 Healthcare
 
-**[FirstClaim](https://github.com/tylergibbs1/firstclaim)** - AI agent that extracts and scores medical billing claims from clinical notes.
+**[FirstClaim](https://github.com/tylergibbs1/firstclaim)** - Turns raw clinical notes into scored, billable claims. An AI agent that reads the chart so coders don't have to.
 
-**[ClaimGuard](https://github.com/backworkai/claimguard)** - Autonomous medical billing denial prediction. HIPAA-safe by design.
+**[ClaimGuard](https://github.com/backworkai/claimguard)** - Knows which claims will get denied before you submit them. Autonomous denial prediction, HIPAA-safe by design.
 
-**[CT-Search](https://github.com/tylergibbs1/ct-search)** - Semantic search over chest CT archives in natural language.
+**[CT-Search](https://github.com/tylergibbs1/ct-search)** - Search an entire chest CT archive in plain English. Find the scan you're picturing, not the one you can name.
 
-**[MedFlow](https://soapbw.vercel.app/)** - Generates professional SOAP notes in seconds with AI.
+**[MedFlow](https://soapbw.vercel.app/)** - Professional SOAP notes in seconds, not hours of after-clinic charting.
 
-**[ClaimGraph](https://github.com/tylergibbs1/claimgraph)** - Turns research questions into interactive knowledge graphs.
+**[ClaimGraph](https://github.com/tylergibbs1/claimgraph)** - Ask a research question, get back an interactive knowledge graph.
 
 **[GutCheck](https://github.com/tylergibbs1/gutcheck)** - Does today's AI spot colon polyps better than a 2020 model? The old one still wins.
 
@@ -69,25 +69,25 @@ Every fund's holdings, in daylight. Point it at a manager and get the live portf
 **[Rebar](https://rebarcore.com/)** · autonomous repair  
 Production software that fixes itself. Rebar catches the breakage, diagnoses the cause, and ships a verified repair before the owner even notices.
 
-**[Substrate](https://github.com/tylergibbs1/substrate)** - Desktop app for AI-generated raster slide decks. The prompt is the only editable artifact, so humans and agents co-author the same prompts over MCP.
+**[Substrate](https://github.com/tylergibbs1/substrate)** - AI-generated slide decks where the prompt *is* the document. Humans and agents co-author the same prompts over MCP, in a desktop app.
 
-**[Typeset](https://github.com/tylergibbs1/typeset)** - Deterministic document pipelines. Render, verify, and extract with full audit lineage.
+**[Typeset](https://github.com/tylergibbs1/typeset)** - Document pipelines you can actually trust. Render, verify, and extract, with every step traceable through full audit lineage.
 
-**[betterhn](https://github.com/tylergibbs1/betterhn)** - A fast, modern Hacker News client built with Next.js 16, Convex, and React 19.
+**[betterhn](https://github.com/tylergibbs1/betterhn)** - Hacker News, fast and modern. Built on Next.js 16, Convex, and React 19.
 
 ## 🔬 Research and fun
 
-**[LLM Robotic Dog](https://youtu.be/Xs0VmfZI658)** - Natural language control for robotic dogs via Claude.
+**[LLM Robotic Dog](https://youtu.be/Xs0VmfZI658)** - Tell a robot dog what to do in plain English, and watch Claude make it move.
 
-**[IRIS](https://github.com/tylergibbs1/iris)** - Forces vision LLMs to verify with SAM 3 segmentation masks.
+**[IRIS](https://github.com/tylergibbs1/iris)** - Stops vision LLMs from hallucinating what they see. Every claim has to ground itself in a SAM 3 segmentation mask.
 
-**[Lattice](https://github.com/tylergibbs1/lattice)** - 10 parallel agents analyze stocks through Munger's mental models.
+**[Lattice](https://github.com/tylergibbs1/lattice)** - 10 agents pick apart a stock in parallel, each through one of Munger's mental models.
 
-**[Tradecraft](https://github.com/tylergibbs1/tradecraft)** - Autonomous trading TUI with strategy evolution and backtesting.
+**[Tradecraft](https://github.com/tylergibbs1/tradecraft)** - An autonomous trading desk in your terminal. Strategies that evolve, backtest, and trade themselves.
 
-**[slidegen](https://github.com/tylergibbs1/slidegen)** - Agent-first CLI for generating PowerPoint decks from prompts.
+**[slidegen](https://github.com/tylergibbs1/slidegen)** - Prompt in, PowerPoint out. An agent-first CLI that generates real .pptx decks.
 
-**[Chess AI](https://chess.appliedtensors.com/)** - Alpha-beta vs Monte Carlo. No neural nets, just algorithms.
+**[Chess AI](https://chess.appliedtensors.com/)** - Alpha-beta vs Monte Carlo, head to head. No neural nets, just algorithms.
 
 **[Traffic Simulation](https://github.com/tylergibbs1/autocar)** - Can AVs eliminate traffic lights? Neural MPC says maybe.
 
