@@ -66,6 +66,9 @@ Platform for electrical contractors: estimating, invoicing, scheduling, GC porta
 **[Daylight](https://www.daylightfilings.com/)** · 13F tracker  
 Point it at a fund and get a live portfolio after the full amendment chain, with quarter-over-quarter diffs and honest freshness metadata.
 
+**[Rebar](https://rebarcore.com/)** · autonomous repair  
+Detects, diagnoses, and repairs breakage in production software so the owner never has to think about it.
+
 **[Substrate](https://github.com/tylergibbs1/substrate)** - Desktop app for AI-generated raster slide decks. The prompt is the only editable artifact, so humans and agents co-author the same prompts over MCP.
 
 **[Typeset](https://github.com/tylergibbs1/typeset)** - Deterministic document pipelines. Render, verify, and extract with full audit lineage.
