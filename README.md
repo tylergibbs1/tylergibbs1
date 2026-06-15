@@ -64,10 +64,10 @@ Platform for electrical contractors: estimating, invoicing, scheduling, GC porta
 ## ⚡ Products
 
 **[Daylight](https://www.daylightfilings.com/)** · 13F tracker  
-Point it at a fund and get a live portfolio after the full amendment chain, with quarter-over-quarter diffs and honest freshness metadata.
+Every fund's holdings, in daylight. Point it at a manager and get the live portfolio — resolved through the entire 13F amendment chain, and timestamped so you know exactly how stale it is.
 
 **[Rebar](https://rebarcore.com/)** · autonomous repair  
-Detects, diagnoses, and repairs breakage in production software so the owner never has to think about it.
+Production software that fixes itself. Rebar catches the breakage, diagnoses the cause, and ships a verified repair before the owner even notices.
 
 **[Substrate](https://github.com/tylergibbs1/substrate)** - Desktop app for AI-generated raster slide decks. The prompt is the only editable artifact, so humans and agents co-author the same prompts over MCP.
 
