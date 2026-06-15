@@ -63,7 +63,8 @@ Platform for electrical contractors: estimating, invoicing, scheduling, GC porta
 
 ## ⚡ Products
 
-**[Daylight](https://www.daylightfilings.com/)** - Portfolio-first SEC 13F tracker. Point it at a fund and get a live portfolio after the full amendment chain, with quarter-over-quarter diffs and honest freshness metadata.
+**[Daylight](https://www.daylightfilings.com/)** · 13F tracker  
+Point it at a fund and get a live portfolio after the full amendment chain, with quarter-over-quarter diffs and honest freshness metadata.
 
 **[Substrate](https://github.com/tylergibbs1/substrate)** - Desktop app for AI-generated raster slide decks. The prompt is the only editable artifact, so humans and agents co-author the same prompts over MCP.
 
