@@ -1,6 +1,6 @@
 # Tyler
 
-Messing around with AI and shipping things that help people. Roughly 30 so far, spanning agent infrastructure, healthcare tooling, grid forecasting, and text-to-CAD. Some are open-source, some are live products.
+I build AI that ships, not demos. Roughly 30 projects so far — agent infrastructure, healthcare tooling, grid forecasting, text-to-CAD — some open-source, some live in production.
 
 Python · TypeScript · Rust · Node.js · Next.js
 
