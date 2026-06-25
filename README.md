@@ -8,9 +8,6 @@ Python · TypeScript · Rust · Node.js · Next.js · TanStack Start
 
 ## ⭐ Featured
 
-**[foresight](https://github.com/tylergibbs1/foresight)** · agent safety  
-An undo button that fires before the mistake. foresight predicts what an AI agent's tool call will do, and blocks it the moment the outcome looks wrong.
-
 **[surge](https://github.com/tylergibbs1/surge)** · ML / grid forecasting  
 Utility-grade load forecasts for the US grid, free and open. A Chronos-2 fine-tune hitting MASE 0.45 across 7 ISOs — matching the accuracy utilities keep behind closed doors.
 
@@ -30,6 +27,8 @@ The operating system for electrical contractors. Estimating, invoicing, scheduli
 **[grepvec](https://github.com/tylergibbs1/grepvec)** - Semantic search that feels like grep. Vector similarity over local files with no index step and no daemons — just turbovec + fastembed.
 
 **[arxivcli](https://github.com/tylergibbs1/arxivcli)** - arXiv, built for agents, no API key required. Scrapes HTML to clean JSON, introspects its own schemas, and trims fields to save context.
+
+**[tokenomics](https://github.com/tylergibbs1/tokenomics)** - Live LLM pricing for agents, no API key. A CLI and MCP server over OpenRouter’s 400+ models — search, estimate workload cost, and compare prices, all normalized to USD per 1M tokens.
 
 ## 🛰️ Systems and networking
 
