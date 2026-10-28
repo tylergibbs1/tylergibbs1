@@ -16,6 +16,12 @@ Custom models and AI agents for healthcare, legal, banking, and utility teams. W
 **Dialect** · physical-world agents  
 AI agents that read the physical world through cameras. An agent proposes typed fields from regions of the frame, a person confirms them, and a Raspberry Pi gateway keeps them current over REST and MCP.
 
+**[kymo](https://github.com/tylergibbs1/kymo)** · motion perception for agents  
+Lets an AI agent see and measure anything that moves (video, animation, synthetic scenes) as labelled frames and real numbers. Ask where a clip changes, what path something took, and when it hit the wall. CLI, MCP server, and TypeScript library.
+
+**[pyfect](https://github.com/tylergibbs1/pyfect)** · Python library  
+[Effect](https://effect.website) for Python. Typed errors and dependencies, a fiber runtime with structured concurrency, and layers, all Pyright-strict.
+
 **[Backwork](https://backworkhealth.com)** · healthcare, live  
 Every payer's coverage rules, searchable in plain English. Ask Medicare, Medicaid, and commercial policies a question and get the answer in seconds instead of digging through PDFs.
 
@@ -43,8 +49,6 @@ See how your team's AI coding agents are used and what they cost.
 **[LLM Robotic Dog](https://youtu.be/Xs0VmfZI658)** - Tell a robot dog what to do in plain English, and watch Claude make it move.
 
 ## 🛠️ Developer tools
-
-**[pyfect](https://github.com/tylergibbs1/pyfect)** - [Effect](https://effect.website) for Python. Typed errors and dependencies, a fiber runtime with structured concurrency, and layers, all Pyright-strict.
 
 **[Stratus](https://usestratus.dev/)** - Ship Azure OpenAI agents in TypeScript. Tools, multi-agent handoffs, and streaming, batteries included.
 
