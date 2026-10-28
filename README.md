@@ -42,20 +42,14 @@ See how your team's AI coding agents are used and what they cost.
 
 **[LLM Robotic Dog](https://youtu.be/Xs0VmfZI658)** - Tell a robot dog what to do in plain English, and watch Claude make it move.
 
-## 🤖 Agent infrastructure
+## 🛠️ Developer tools
 
-**[sieve](https://github.com/tylergibbs1/sieve)** - A full browser for AI agents, minus the 300MB of Chromium. Parses HTML, builds accessibility trees, clicks, fills forms, and handles cookies.
+**[pyfect](https://github.com/tylergibbs1/pyfect)** - [Effect](https://effect.website) for Python. Typed errors and dependencies, a fiber runtime with structured concurrency, and layers, all Pyright-strict.
 
 **[Stratus](https://usestratus.dev/)** - Ship Azure OpenAI agents in TypeScript. Tools, multi-agent handoffs, and streaming, batteries included.
 
-**[arxivcli](https://github.com/tylergibbs1/arxivcli)** - arXiv, built for agents, no API key required. Scrapes HTML to clean JSON, introspects its own schemas, and trims fields to save context.
-
 **[tokenomics](https://github.com/tylergibbs1/tokenomics)** - Live LLM pricing for agents, no API key. A CLI and MCP server over OpenRouter’s 400+ models — search, estimate workload cost, and compare prices, all normalized to USD per 1M tokens.
 
-## 🕸️ Web and data
-
 **[Feedstock](https://github.com/tylergibbs1/feedstock)** - A crawler for TypeScript and Bun that goes deep. Fetch-first engines, recursive crawling, and 50+ metadata fields per page.
-
-**[Helm](https://github.com/tylergibbs1/helm)** - Browser automation that reads a page like a human. Click by label, not by brittle selector — exposed over MCP.
 
 More on [tylergibbs.dev](https://tylergibbs.dev), including the [blog](https://tylergibbs.dev/blog) and the [full project list](https://tylergibbs.dev/projects).
