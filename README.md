@@ -1,22 +1,46 @@
 # Tyler
 
-I build. Roughly 30 projects so far — agent infrastructure, healthcare tooling, grid forecasting, text-to-CAD — some open-source, some live in production.
+Lead AI Engineer and founder of [Grayhaven Industries](https://www.grayhavenindustries.com). I build AI for critical industries: healthcare, legal, banking, and the physical world.
 
-Python · TypeScript · Rust · Node.js · Next.js · TanStack Start
+Working on something in AI, energy, or robotics? Email me at [tylergibbs048@gmail.com](mailto:tylergibbs048@gmail.com), or find me on [X](https://x.com/tylergibbs) and [LinkedIn](https://www.linkedin.com/in/tylergibbss/).
+
+Python · TypeScript · Go · Rust · Node.js · Next.js · TanStack Start
 
 [Applied Tensors](https://www.youtube.com/@appliedtensors), building in public on YouTube
 
 ## ⭐ Featured
 
-**[surge](https://github.com/tylergibbs1/surge)** · ML / grid forecasting  
-Utility-grade load forecasts for the US grid, free and open. A Chronos-2 fine-tune hitting MASE 0.45 across 7 ISOs — matching the accuracy utilities keep behind closed doors.
+**[Grayhaven Industries](https://www.grayhavenindustries.com)** · AI deployment company  
+Custom models and AI agents for healthcare, legal, banking, and utility teams. We build them, and we run what we build.
 
-**[Verity](https://backworkai.com)** · healthcare, live  
+**Dialect** · physical-world agents  
+AI agents that read the physical world through cameras. An agent proposes typed fields from regions of the frame, a person confirms them, and a Raspberry Pi gateway keeps them current over REST and MCP.
+
+**[Backwork](https://backworkhealth.com)** · healthcare, live  
 Every payer's coverage rules, searchable in plain English. Ask Medicare, Medicaid, and commercial policies a question and get the answer in seconds instead of digging through PDFs.
 
 **[Faraday](https://faradaycrew.com)** · product, live  
 The operating system for electrical contractors. Estimating, invoicing, scheduling, and a GC portal — with an AI assistant running the back office.
 
+**[Tokenbase](https://tokenbasehq.com)** · product, live  
+See how your team's AI coding agents are used and what they cost.
+
+## 🔬 Research
+
+<table>
+  <tr>
+    <td align="center"><a href="https://youtu.be/q240DAB6ssE"><img src="https://img.youtube.com/vi/q240DAB6ssE/hqdefault.jpg" width="320" alt="Project Foresight demo video" /></a><br />Project Foresight</td>
+    <td align="center"><a href="https://youtu.be/Xs0VmfZI658"><img src="https://img.youtube.com/vi/Xs0VmfZI658/hqdefault.jpg" width="320" alt="LLM Robotic Dog demo video" /></a><br />LLM Robotic Dog</td>
+  </tr>
+</table>
+
+**[Project Foresight](https://youtu.be/q240DAB6ssE)** - A world model for a real robot arm. It predicts what the camera should see next and flags surprises, like a hand entering the workspace, in about a tenth of a second.
+
+**[Training in Orbit](https://tylergibbs.dev/blog/training-in-orbit)** - What happens when you train a transformer on a GPU getting hit by cosmic rays. Undefended runs crash at 10x low-Earth-orbit radiation; fault-aware training stays stable up to 10,000x.
+
+**[IRIS](https://github.com/tylergibbs1/iris)** - Stops vision LLMs from hallucinating what they see. Every claim has to ground itself in a SAM 3 segmentation mask.
+
+**[LLM Robotic Dog](https://youtu.be/Xs0VmfZI658)** - Tell a robot dog what to do in plain English, and watch Claude make it move.
 
 ## 🤖 Agent infrastructure
 
@@ -24,15 +48,9 @@ The operating system for electrical contractors. Estimating, invoicing, scheduli
 
 **[Stratus](https://usestratus.dev/)** - Ship Azure OpenAI agents in TypeScript. Tools, multi-agent handoffs, and streaming, batteries included.
 
-**[grepvec](https://github.com/tylergibbs1/grepvec)** - Semantic search that feels like grep. Vector similarity over local files with no index step and no daemons — just turbovec + fastembed.
-
 **[arxivcli](https://github.com/tylergibbs1/arxivcli)** - arXiv, built for agents, no API key required. Scrapes HTML to clean JSON, introspects its own schemas, and trims fields to save context.
 
 **[tokenomics](https://github.com/tylergibbs1/tokenomics)** - Live LLM pricing for agents, no API key. A CLI and MCP server over OpenRouter’s 400+ models — search, estimate workload cost, and compare prices, all normalized to USD per 1M tokens.
-
-## 🛰️ Systems and networking
-
-**[bytehaul](https://github.com/tylergibbs1/bytehaul)** - Move files over QUIC and leave scp behind — 2x+ faster on high-latency links.
 
 ## 🕸️ Web and data
 
@@ -40,56 +58,4 @@ The operating system for electrical contractors. Estimating, invoicing, scheduli
 
 **[Helm](https://github.com/tylergibbs1/helm)** - Browser automation that reads a page like a human. Click by label, not by brittle selector — exposed over MCP.
 
-**[extractr](https://github.com/tylergibbs1/extractr)** - Turn any web page into structured data with a few lines of YAML. No scraping code to maintain.
-
-**[domql](https://github.com/tylergibbs1/domql)** - SELECT * FROM the web. Query any page's DOM with real SQL syntax.
-
-**[schemasniff](https://github.com/tylergibbs1/schemasniff)** - Point it at a page and it reverse-engineers the scraping schema for you, wherever content repeats.
-
-## 🩺 Healthcare
-
-**[FirstClaim](https://github.com/tylergibbs1/firstclaim)** - Turns raw clinical notes into scored, billable claims. An AI agent that reads the chart so coders don't have to.
-
-**[ClaimGuard](https://github.com/backworkai/claimguard)** - Knows which claims will get denied before you submit them. Autonomous denial prediction, HIPAA-safe by design.
-
-**[CT-Search](https://github.com/tylergibbs1/ct-search)** - Search an entire chest CT archive in plain English. Find the scan you're picturing, not the one you can name.
-
-**[MedFlow](https://soapbw.vercel.app/)** - Professional SOAP notes in seconds, not hours of after-clinic charting.
-
-**[ClaimGraph](https://github.com/tylergibbs1/claimgraph)** - Ask a research question, get back an interactive knowledge graph.
-
-**[GutCheck](https://github.com/tylergibbs1/gutcheck)** - Does today's AI spot colon polyps better than a 2020 model? The old one still wins.
-
-## ⚡ Products
-
-**[Daylight](https://www.daylightfilings.com/)** · 13F tracker  
-Every fund's holdings, in daylight. Point it at a manager and get the live portfolio — resolved through the entire 13F amendment chain, and timestamped so you know exactly how stale it is.
-
-**[Rebar](https://rebarcore.com/)** · autonomous repair  
-Production software that fixes itself. Rebar catches the breakage, diagnoses the cause, and ships a verified repair before the owner even notices.
-
-**[Substrate](https://github.com/tylergibbs1/substrate)** - AI-generated slide decks where the prompt *is* the document. Humans and agents co-author the same prompts over MCP, in a desktop app.
-
-**[Typeset](https://github.com/tylergibbs1/typeset)** - Document pipelines you can actually trust. Render, verify, and extract, with every step traceable through full audit lineage.
-
-**[betterhn](https://github.com/tylergibbs1/betterhn)** - Hacker News, fast and modern. Built on Next.js 16, Convex, and React 19.
-
-## 🔬 Research and fun
-
-**[LLM Robotic Dog](https://youtu.be/Xs0VmfZI658)** - Tell a robot dog what to do in plain English, and watch Claude make it move.
-
-**[IRIS](https://github.com/tylergibbs1/iris)** - Stops vision LLMs from hallucinating what they see. Every claim has to ground itself in a SAM 3 segmentation mask.
-
-**[Lattice](https://github.com/tylergibbs1/lattice)** - 10 agents pick apart a stock in parallel, each through one of Munger's mental models.
-
-**[Tradecraft](https://github.com/tylergibbs1/tradecraft)** - An autonomous trading desk in your terminal. Strategies that evolve, backtest, and trade themselves.
-
-**[slidegen](https://github.com/tylergibbs1/slidegen)** - Prompt in, PowerPoint out. An agent-first CLI that generates real .pptx decks.
-
-**[Chess AI](https://chess.appliedtensors.com/)** - Alpha-beta vs Monte Carlo, head to head. No neural nets, just algorithms.
-
-**[Traffic Simulation](https://github.com/tylergibbs1/autocar)** - Can AVs eliminate traffic lights? Neural MPC says maybe.
-
-## Connect
-
-[X](https://x.com/Tylerbryy) · [GitHub](https://github.com/tylergibbs1)
+More on [tylergibbs.dev](https://tylergibbs.dev), including the [blog](https://tylergibbs.dev/blog) and the [full project list](https://tylergibbs.dev/projects).
